@@ -8,4 +8,4 @@
 
 [node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22](https://monosnap.com/file/vqdVKyTeVVmfejZVDbNyIYSJoEQ1jr)
 
-[node index.js --action remove --id=3](https://monosnap.com/file/5t1GRKou1pblZ8n5m02brnCQOleXDF)
+[node index.js --action remove --id=3](https://monosnap.com/file/uiFWw3T1wg4mWotu71CoTgaBxAdAiX)
